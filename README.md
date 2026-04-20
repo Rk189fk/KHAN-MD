@@ -23,16 +23,16 @@
 </p>
 
 <h1 align="center">
-  <img src="https://img.shields.io/badge/-✨_KHAN--MD_INSIGHTS_✨-purple?style=for-the-badge&logo=sparkles&logoColor=white&labelColor=0d1117&color=9d4edd&label=&link=https://github.com/KHAN-MD&link=https://github.com/KHAN-MD" />
+  <img src="https://img.shields.io/badge/-✨_MJ-PRO-BOT_INSIGHTS_✨-purple?style=for-the-badge&logo=sparkles&logoColor=white&labelColor=0d1117&color=9d4edd&label=&link=https://github.com/KHAN-MD&link=https://github.com/KHAN-MD" />
 </h1>
 </p>
 </p>
     <img src="https://komarev.com/ghpvc/?username=JawadYT36&label=Views&color=9D00FF&style=flat" alt="Profile Views" />
     <img src="https://img.shields.io/github/stars/JawadYT36/KHAN-MD?color=9D00FF&label=Stars&style=flat" alt="GitHub Stars" />
-    <img src="https://img.shields.io/github/forks/JawadYT36/KHAN-MD?style=flat&color=1E88E5&logo=github&logoColor=white&label=Forks" alt="GitHub Forks" />
+    <img src="https://img.shields.io/github/forks/MJ-PRO-BOT/MJ-PRO-BOT?style=flat&color=1E88E5&logo=github&logoColor=white&label=Forks" alt="GitHub Forks" />
     <img src="https://img.shields.io/github/followers/JawadYT36?style=flat&color=43A047&logo=github&logoColor=white&label=Followers" alt="GitHub Followers" />
-    <img src="https://img.shields.io/github/last-commit/JawadYT36/KHAN-MD?style=flat&color=8E24AA&logo=git&logoColor=white&label=Last%20Commit" alt="Last Commit" />
-    <img src="https://img.shields.io/github/repo-size/JawadYT36/KHAN-MD?style=flat&color=0097A7&logo=database&logoColor=white&label=Repo%20Size" alt="Repo Size" />
+    <img src="https://img.shields.io/github/last-commit/MJ-PRO-BOT/MJ-PRO-BOT?style=flat&color=8E24AA&logo=git&logoColor=white&label=Last%20Commit" alt="Last Commit" />
+    <img src="https://img.shields.io/github/repo-size/MJ-PRO-BOT?style=flat&color=0097A7&logo=database&logoColor=white&label=Repo%20Size" alt="Repo Size" />
     <img src="https://img.shields.io/github/package-json/v/JawadYT36/KHAN-MD?style=flat&color=F57C00&logo=npm&logoColor=white&label=Version" alt="Package Version" />
   </p>
   
@@ -45,7 +45,7 @@
 ---
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/JawadTechXD/JawadTechXD/refs/heads/main/khanmd.jpg" width="300" style="border-radius: 20px; box-shadow: 0 0 20px #00ffff;"/>
+  <img src="https://raw.githubusercontent.com/ MJ-PRO-BOT/refs/heads/main/khanmd.jpg" width="300" style="border-radius: 20px; box-shadow: 0 0 20px #00ffff;"/>
 </div>
 
 ***
@@ -293,5 +293,5 @@ You are free to use, modify, and distribute it under the terms of this license.
 <h3 align="center">🙏 Thanks for using!</h3>
 <p align="center">
   If you like this project, consider giving it a ⭐ on GitHub.<br>
-  Made with ❤️ by <a href="https://github.com/JawadYT36">JawadTechX</a>
+  Made with ❤️ by <a href="https://github.com/MJ-PRO-BOT">JawadTechX</a>
 </p>
